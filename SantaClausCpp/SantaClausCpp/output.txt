@@ -1,0 +1,559 @@
+Santa Claus: Going to sleep.
+Reindeer 1: Going to holiday.
+Reindeer 2: Going to holiday.
+Reindeer 3: Going to holiday.
+Reindeer 4: Going to holiday.
+Reindeer 5: Going to holiday.
+Reindeer 6: Going to holiday.
+Reindeer 7: Going to holiday.
+Reindeer 8: Going to holiday.
+Reindeer 9: Going to holiday.
+Elf 1: Making toys.
+Elf 2: Making toys.
+Elf 3: Making toys.
+Elf 4: Making toys.
+Elf 5: Making toys.
+Elf 6: Making toys.
+Elf 7: Making toys.
+Elf 8: Making toys.
+Elf 9: Making toys.
+Elf 10: Making toys.
+Elf 2: Can't make toys. Needs help.
+Elf 2: waits to go to santa.
+Elf 1: Can't make toys. Needs help.
+Elf 1: waits to go to santa.
+Elf 7: Can't make toys. Needs help.
+Elf 7: I request help from santa.
+Elf 5: Can't make toys. Needs help.
+Elf 5: I request help from santa.
+Elf 4: Can't make toys. Needs help.
+Elf 4: I request help from santa.
+Elf 6: Can't make toys. Needs help.
+Elf 6: waits to go to santa.
+Elf 3: Can't make toys. Needs help.
+Elf 3: waits to go to santa.
+Elf 2: waits to go to santa.
+Elf 1: waits to go to santa.
+Santa Claus: Welcome elves!
+Santa Claus: Consulting elf 7
+Santa Claus: Consulting elf 5
+Santa Claus: Consulting elf 4
+Santa Claus: Going to sleep.
+Elf 8: Can't make toys. Needs help.
+Elf 8: waits to go to santa.
+Elf 10: Can't make toys. Needs help.
+Elf 10: waits to go to santa.
+Elf 9: Can't make toys. Needs help.
+Elf 9: waits to go to santa.
+Elf 5: Making toys.
+Elf 4: Making toys.
+Elf 7: Making toys.
+Elf 9: waits to go to santa.
+Elf 8: waits to go to santa.
+Elf 10: waits to go to santa.
+Elf 1: waits to go to santa.
+Elf 2: waits to go to santa.
+Elf 3: waits to go to santa.
+Elf 6: waits to go to santa.
+Elf 4: Can't make toys. Needs help.
+Elf 4: I request help from santa.
+Elf 7: Can't make toys. Needs help.
+Elf 7: I request help from santa.
+Elf 5: Can't make toys. Needs help.
+Elf 5: I request help from santa.
+Elf 9: waits to go to santa.
+Elf 8: waits to go to santa.
+Santa Claus: Welcome elves!
+Santa Claus: Consulting elf 4
+Santa Claus: Consulting elf 7
+Santa Claus: Consulting elf 5
+Santa Claus: Going to sleep.
+Elf 5: Making toys.Elf 7: Making toys.
+Elf 4: Making toys.
+
+Elf 1: waits to go to santa.
+Elf 9: waits to go to santa.
+Elf 6: waits to go to santa.
+Elf 3: waits to go to santa.
+Elf 8: waits to go to santa.
+Elf 2: waits to go to santa.
+Elf 10: waits to go to santa.
+Reindeer 5: Back from holiday.
+Reindeer 7: Back from holiday.
+Reindeer 3: Back from holiday.
+Reindeer 2: Back from holiday.
+Reindeer 8: Back from holiday.
+Reindeer 4: Back from holiday.
+Reindeer 1: Back from holiday.
+Reindeer 9: Back from holiday.
+Reindeer 6: Back from holiday.
+Santa Claus: Welcome reindeers!
+Santa Claus: Harness reindeer 5
+Santa Claus: Harness reindeer 7
+Santa Claus: Harness reindeer 3
+Santa Claus: Harness reindeer 2
+Santa Claus: Harness reindeer 8
+Santa Claus: Harness reindeer 4
+Santa Claus: Harness reindeer 1
+Santa Claus: Harness reindeer 9
+Santa Claus: Harness reindeer 6
+Santa Claus: Delivering gifts... 
+Santa Claus: Unharness reindeer 5
+Santa Claus: Unharness reindeer 7
+Santa Claus: Unharness reindeer 3
+Santa Claus: Unharness reindeer 2
+Santa Claus: Unharness reindeer 8
+Santa Claus: Unharness reindeer 4
+Santa Claus: Unharness reindeer 1
+Santa Claus: Unharness reindeer 9
+Santa Claus: Unharness reindeer 6
+Santa Claus: Going to sleep.
+Elf 5: Can't make toys. Needs help.
+Elf 5: I request help from santa.
+Elf 7: Can't make toys. Needs help.
+Elf 7: I request help from santa.
+Elf 4: Can't make toys. Needs help.
+Elf 4: I request help from santa.
+Reindeer 6: Going to holiday.
+Reindeer 1Reindeer : Going to holiday.Reindeer 2
+4: Going to holiday.: Going to holiday.
+Reindeer 
+Reindeer Reindeer 8Elf 1: waits to go to santa.7
+: Going to holiday.: Going to holiday.
+
+5Elf 9: waits to go to santa.
+: Going to holiday.
+Reindeer 9Santa Claus: Welcome elves!Reindeer 
+: Going to holiday.3
+: Going to holiday.
+Santa Claus: Consulting elf 5
+Santa Claus: Consulting elf 7
+Santa Claus: Consulting elf 4
+Santa Claus: Going to sleep.
+Elf 4: Making toys.Elf 7: Making toys.
+
+Elf 5: Making toys.Elf 1: waits to go to santa.
+
+Elf 9: waits to go to santa.
+Elf 10: waits to go to santa.
+Elf 2: waits to go to santa.
+Elf 8: waits to go to santa.
+Elf 3: waits to go to santa.
+Elf 6: waits to go to santa.
+Elf 4: Can't make toys. Needs help.
+Elf 4: I request help from santa.
+Elf 7: Can't make toys. Needs help.
+Elf 7: I request help from santa.
+Elf 5: Can't make toys. Needs help.
+Elf 5: I request help from santa.
+Elf 1: waits to go to santa.
+Elf 9: waits to go to santa.
+Santa Claus: Welcome elves!
+Santa Claus: Consulting elf 4
+Santa Claus: Consulting elf 7
+Santa Claus: Consulting elf 5
+Santa Claus: Going to sleep.
+Elf 7: Making toys.
+Elf 4: Making toys.
+Elf 5: Making toys.Elf 8: waits to go to santa.
+
+Elf 6: waits to go to santa.
+Elf 1: waits to go to santa.
+Elf 2: waits to go to santa.
+Elf 10: waits to go to santa.
+Elf 3: waits to go to santa.
+Elf 9: waits to go to santa.
+Elf 5: Can't make toys. Needs help.
+Elf 5: I request help from santa.
+Elf 7: Can't make toys. Needs help.
+Elf 7: I request help from santa.
+Elf 4: Can't make toys. Needs help.
+Elf 4: I request help from santa.
+Elf 8: waits to go to santa.
+Elf 6: waits to go to santa.
+Santa Claus: Welcome elves!
+Santa Claus: Consulting elf 5
+Santa Claus: Consulting elf 7
+Santa Claus: Consulting elf 4
+Santa Claus: Going to sleep.
+Elf 7: Making toys.
+Elf 5: Making toys.
+Elf 4: Making toys.
+Elf 9: waits to go to santa.
+Elf 10: waits to go to santa.
+Elf 8: waits to go to santa.
+Elf 2: waits to go to santa.
+Elf 1: waits to go to santa.
+Elf 3: waits to go to santa.
+Elf 6: waits to go to santa.
+Elf 5: Can't make toys. Needs help.
+Elf 5: I request help from santa.
+Elf 7: Can't make toys. Needs help.
+Elf 7: I request help from santa.
+Elf 9: I request help from santa.
+Elf 10: waits to go to santa.
+Santa Claus: Welcome elves!
+Santa Claus: Consulting elf 5
+Santa Claus: Consulting elf 7
+Santa Claus: Consulting elf 9
+Santa Claus: Going to sleep.
+Elf 4: Can't make toys. Needs help.
+Elf 4: waits to go to santa.
+Reindeer 3: Back from holiday.
+Reindeer 2: Back from holiday.
+Reindeer 4: Back from holiday.
+Reindeer 7: Back from holiday.
+Reindeer 8: Back from holiday.
+Reindeer 5: Back from holiday.
+Reindeer 9: Back from holiday.
+Reindeer 1: Back from holiday.
+Reindeer 6: Back from holiday.
+Elf 9: Making toys.
+Elf 7: Making toys.
+Elf 5: Making toys.Elf 2: waits to go to santa.
+
+Elf 6: waits to go to santa.
+Elf 3: waits to go to santa.
+Elf 4: waits to go to santa.
+Santa Claus: Welcome reindeers!
+Santa Claus: Harness reindeer 3
+Santa Claus: Harness reindeer 2
+Santa Claus: Harness reindeer 4
+Santa Claus: Harness reindeer 7
+Santa Claus: Harness reindeer 8
+Santa Claus: Harness reindeer 5
+Santa Claus: Harness reindeer 9
+Santa Claus: Harness reindeer 1
+Santa Claus: Harness reindeer 6
+Santa Claus: Delivering gifts... 
+Santa Claus: Unharness reindeer 3
+Santa Claus: Unharness reindeer 2
+Santa Claus: Unharness reindeer 4
+Santa Claus: Unharness reindeer 7
+Santa Claus: Unharness reindeer 8
+Santa Claus: Unharness reindeer 5
+Santa Claus: Unharness reindeer 9
+Santa Claus: Unharness reindeer 1
+Santa Claus: Unharness reindeer 6
+Santa Claus: Going to sleep.
+Elf 8: waits to go to santa.
+Elf 10: waits to go to santa.
+Elf 1: waits to go to santa.
+Elf 5: Can't make toys. Needs help.
+Elf 5: I request help from santa.
+Elf 7: Can't make toys. Needs help.
+Elf 7: I request help from santa.
+Elf 9: Can't make toys. Needs help.
+Elf 9: I request help from santa.
+Reindeer 6Reindeer : Going to holiday.9
+Reindeer : Going to holiday.8
+Reindeer : Going to holiday.4
+: Going to holiday.
+Reindeer Reindeer 35: Going to holiday.: Going to holiday.Reindeer 
+
+Reindeer Elf 2: waits to go to santa.7
+: Going to holiday.
+Reindeer 1: Going to holiday.
+Elf 6: waits to go to santa.
+2: Going to holiday.
+Santa Claus: Welcome elves!
+Santa Claus: Consulting elf 5
+Santa Claus: Consulting elf 7
+Santa Claus: Consulting elf 9
+Santa Claus: Going to sleep.
+Elf 9: Making toys.
+Elf 7: Making toys.
+Elf 8: waits to go to santa.Elf 5: Making toys.
+
+Elf 2: waits to go to santa.
+Elf 1: waits to go to santa.
+Elf 10: waits to go to santa.
+Elf 6: waits to go to santa.
+Elf 4: waits to go to santa.
+Elf 3: waits to go to santa.
+Elf 7: Can't make toys. Needs help.
+Elf 7: I request help from santa.
+Elf 8: I request help from santa.
+Elf 2: I request help from santa.
+Santa Claus: Welcome elves!
+Santa Claus: Consulting elf 7
+Santa Claus: Consulting elf 8
+Santa Claus: Consulting elf 2
+Santa Claus: Going to sleep.
+Elf 5: Can't make toys. Needs help.
+Elf 5: waits to go to santa.
+Elf 9: Can't make toys. Needs help.
+Elf 9: waits to go to santa.
+Elf 2: Making toys.
+Elf 8: Making toys.
+Elf 7: Making toys.Elf 5: waits to go to santa.
+
+Elf 3: waits to go to santa.
+Elf 4: waits to go to santa.
+Elf 1: waits to go to santa.
+Elf 10: waits to go to santa.
+Elf 9: waits to go to santa.
+Elf 6: waits to go to santa.
+Elf 8: Can't make toys. Needs help.
+Elf 8: I request help from santa.
+Elf 2: Can't make toys. Needs help.
+Elf 2: I request help from santa.
+Elf 5: I request help from santa.
+Elf 3: waits to go to santa.
+Santa Claus: Welcome elves!
+Santa Claus: Consulting elf 8
+Santa Claus: Consulting elf 2
+Santa Claus: Consulting elf 5
+Santa Claus: Going to sleep.
+Elf 7: Can't make toys. Needs help.
+Elf 7: waits to go to santa.
+Elf 5: Making toys.
+Elf 2: Making toys.Elf 8: Making toys.
+
+Elf 1: waits to go to santa.
+Elf 3: waits to go to santa.
+Elf 6: waits to go to santa.
+Elf 9: waits to go to santa.
+Elf 10: waits to go to santa.
+Elf 4: waits to go to santa.
+Elf 7: waits to go to santa.
+Reindeer 7: Back from holiday.
+Reindeer 8: Back from holiday.
+Reindeer 2: Back from holiday.
+Reindeer 9: Back from holiday.
+Reindeer 4: Back from holiday.
+Reindeer 1: Back from holiday.
+Reindeer 3: Back from holiday.
+Reindeer 5: Back from holiday.
+Reindeer 6: Back from holiday.
+Santa Claus: Welcome reindeers!
+Santa Claus: Harness reindeer 7
+Santa Claus: Harness reindeer 8
+Santa Claus: Harness reindeer 2
+Santa Claus: Harness reindeer 9
+Santa Claus: Harness reindeer 4
+Santa Claus: Harness reindeer 1
+Santa Claus: Harness reindeer 3
+Santa Claus: Harness reindeer 5
+Santa Claus: Harness reindeer 6
+Santa Claus: Delivering gifts... 
+Santa Claus: Unharness reindeer 7
+Santa Claus: Unharness reindeer 8
+Santa Claus: Unharness reindeer 2
+Santa Claus: Unharness reindeer 9
+Santa Claus: Unharness reindeer 4
+Santa Claus: Unharness reindeer 1
+Santa Claus: Unharness reindeer 3
+Santa Claus: Unharness reindeer 5
+Santa Claus: Unharness reindeer 6
+Santa Claus: Going to sleep.
+Elf 2: Can't make toys. Needs help.
+Elf 2: I request help from santa.
+Elf 8: Can't make toys. Needs help.
+Elf 8: I request help from santa.
+Elf 5: Can't make toys. Needs help.
+Elf 5: I request help from santa.
+Reindeer 5Reindeer : Going to holiday.3
+: Going to holiday.
+Reindeer Reindeer Reindeer 91Reindeer : Going to holiday.8
+: Going to holiday.: Going to holiday.Reindeer Reindeer 42Elf 1: waits to go to santa.: Going to holiday.
+6
+
+: Going to holiday.
+
+Reindeer Elf 3: waits to go to santa.7
+: Going to holiday.: Going to holiday.
+
+Santa Claus: Welcome elves!
+Santa Claus: Consulting elf 2
+Santa Claus: Consulting elf 8
+Santa Claus: Consulting elf 5
+Santa Claus: Going to sleep.
+Elf 8: Making toys.
+Elf 2: Making toys.
+Elf 9: waits to go to santa.
+Elf 5: Making toys.
+Elf 4: waits to go to santa.
+Elf 10: waits to go to santa.
+Elf 1: waits to go to santa.
+Elf 6: waits to go to santa.
+Elf 7: waits to go to santa.
+Elf 3: waits to go to santa.
+Elf 5: Can't make toys. Needs help.
+Elf 5: I request help from santa.
+Elf 9: I request help from santa.
+Elf 4: I request help from santa.
+Santa Claus: Welcome elves!
+Santa Claus: Consulting elf 5
+Santa Claus: Consulting elf 9
+Santa Claus: Consulting elf 4
+Santa Claus: Going to sleep.
+Elf 8: Can't make toys. Needs help.
+Elf 8: waits to go to santa.
+Elf 2: Can't make toys. Needs help.
+Elf 2: waits to go to santa.
+Elf 4: Making toys.Elf 9: Making toys.
+
+Elf 5: Making toys.Elf 2: waits to go to santa.
+
+Elf 8: waits to go to santa.
+Elf 3: waits to go to santa.
+Elf 7: waits to go to santa.
+Elf 6: waits to go to santa.
+Elf 1: waits to go to santa.
+Elf 10: waits to go to santa.
+Elf 9: Can't make toys. Needs help.
+Elf 9: I request help from santa.
+Elf 2: I request help from santa.
+Elf 8: I request help from santa.
+Santa Claus: Welcome elves!
+Santa Claus: Consulting elf 9
+Santa Claus: Consulting elf 2
+Santa Claus: Consulting elf 8
+Santa Claus: Going to sleep.
+Elf 5: Can't make toys. Needs help.
+Elf 5: waits to go to santa.
+Elf 4: Can't make toys. Needs help.
+Elf 4: waits to go to santa.
+Elf 9: Making toys.
+Elf 8: Making toys.
+Elf 2: Making toys.Elf 7: waits to go to santa.
+
+Elf 1: waits to go to santa.
+Elf 6: waits to go to santa.
+Elf 4: waits to go to santa.
+Elf 5: waits to go to santa.
+Elf 10: waits to go to santa.
+Elf 3: waits to go to santa.
+Elf 8: Can't make toys. Needs help.
+Elf 8: I request help from santa.
+Elf 2: Can't make toys. Needs help.
+Elf 2: I request help from santa.
+Elf 9: Can't make toys. Needs help.
+Elf 9: I request help from santa.
+Elf 7: waits to go to santa.
+Elf 1: waits to go to santa.
+Santa Claus: Welcome elves!
+Santa Claus: Consulting elf 8
+Santa Claus: Consulting elf 2
+Santa Claus: Consulting elf 9
+Santa Claus: Going to sleep.
+Elf 8: Making toys.
+Elf 9: Making toys.
+Elf 2: Making toys.Elf 7: waits to go to santa.
+
+Elf 10: waits to go to santa.
+Elf 5: waits to go to santa.
+Elf 4: waits to go to santa.
+Elf 6: waits to go to santa.
+Elf 3: waits to go to santa.
+Elf 1: waits to go to santa.
+Reindeer 1: Back from holiday.
+Reindeer 8: Back from holiday.
+Reindeer 4: Back from holiday.
+Reindeer 7: Back from holiday.
+Reindeer 9: Back from holiday.
+Reindeer 2: Back from holiday.
+Reindeer 6: Back from holiday.
+Reindeer 5: Back from holiday.
+Reindeer 3: Back from holiday.
+Santa Claus: Welcome reindeers!
+Santa Claus: Harness reindeer 1
+Santa Claus: Harness reindeer 8
+Santa Claus: Harness reindeer 4
+Santa Claus: Harness reindeer 7
+Santa Claus: Harness reindeer 9
+Santa Claus: Harness reindeer 2
+Santa Claus: Harness reindeer 6
+Santa Claus: Harness reindeer 5
+Santa Claus: Harness reindeer 3
+Santa Claus: Delivering gifts... 
+Santa Claus: Unharness reindeer 1
+Santa Claus: Unharness reindeer 8
+Santa Claus: Unharness reindeer 4
+Santa Claus: Unharness reindeer 7
+Santa Claus: Unharness reindeer 9
+Santa Claus: Unharness reindeer 2
+Santa Claus: Unharness reindeer 6
+Santa Claus: Unharness reindeer 5
+Santa Claus: Unharness reindeer 3
+Santa Claus: Going to sleep.
+Elf 9: Can't make toys. Needs help.
+Elf 9: I request help from santa.
+Elf 8: Can't make toys. Needs help.
+Elf 8: I request help from santa.
+Elf 2: Can't make toys. Needs help.
+Elf 2: I request help from santa.
+Reindeer 3Reindeer Reindeer Reindeer 62: Going to holiday.: Going to holiday.5
+
+Reindeer Reindeer Reindeer 78: Going to holiday.: Going to holiday.: Going to holiday.Elf 7: waits to go to santa.
+
+
+Reindeer Reindeer 9: Going to holiday.1: Going to holiday.4: Going to holiday.
+
+: Going to holiday.
+
+
+Elf 10: waits to go to santa.
+Santa Claus: Welcome elves!
+Santa Claus: Consulting elf 9
+Santa Claus: Consulting elf 8
+Santa Claus: Consulting elf 2
+Santa Claus: Going to sleep.
+Elf 2: Making toys.
+Elf 9: Making toys.
+Elf 7: waits to go to santa.
+Elf 8: Making toys.
+Elf 1: waits to go to santa.
+Elf 6: waits to go to santa.
+Elf 4: waits to go to santa.
+Elf 5: waits to go to santa.
+Elf 3: waits to go to santa.
+Elf 10: waits to go to santa.
+Elf 2: Can't make toys. Needs help.
+Elf 2: I request help from santa.
+Elf 9: Can't make toys. Needs help.
+Elf 9: I request help from santa.
+Elf 8: Can't make toys. Needs help.
+Elf 8: I request help from santa.
+Elf 7: waits to go to santa.
+Elf 1: waits to go to santa.
+Santa Claus: Welcome elves!
+Santa Claus: Consulting elf 2
+Santa Claus: Consulting elf 9
+Santa Claus: Consulting elf 8
+Santa Claus: Going to sleep.
+Elf 8: Making toys.
+Elf 9: Making toys.
+Elf 4: waits to go to santa.
+Elf 2: Making toys.
+Elf 10: waits to go to santa.
+Elf 7: waits to go to santa.
+Elf 5: waits to go to santa.
+Elf 6: waits to go to santa.
+Elf 3: waits to go to santa.
+Elf 1: waits to go to santa.
+Elf 8: Can't make toys. Needs help.
+Elf 8: I request help from santa.
+Elf 9: Can't make toys. Needs help.
+Elf 9: I request help from santa.
+Elf 2: Can't make toys. Needs help.
+Elf 2: I request help from santa.
+Elf 4: waits to go to santa.
+Elf 10: waits to go to santa.
+Santa Claus: Welcome elves!
+Santa Claus: Consulting elf 8
+Santa Claus: Consulting elf 9
+Santa Claus: Consulting elf 2
+Reindeer 6: Back from holiday.
+Reindeer 5: Back from holiday.
+Reindeer 9: Back from holiday.
+Reindeer 8: Back from holiday.
+Reindeer 1: Back from holiday.
+Reindeer 3: Back from holiday.
+Reindeer 7: Back from holiday.
+Reindeer 4: Back from holiday.
+Reindeer 2: Back from holiday.
+
+
+done

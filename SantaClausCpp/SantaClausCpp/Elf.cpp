@@ -5,6 +5,8 @@
 #include <iostream>
 #include <queue>
 #include <mutex>
+#include <string>
+#include <cstdio>
 #include <condition_variable>
 #define CHECK_IF_ITS_TIME_TO_DIE if (santa->GetRemainingIterations() <= 0) return;
 
@@ -27,7 +29,10 @@ void Elf::Run()
 
         CHECK_IF_ITS_TIME_TO_DIE
 
-        cout << "Elf " << GetId() << ": Making toys." << endl;
+        string s;
+        s = "Elf " + to_string(m_id) + ": Making toys.";
+
+        SantaClaus::GetInstance()->GetOutputStream() << s << endl;
         this_thread::sleep_for(chrono::milliseconds(GetRandomMakingToysTime()));
 
         unique_lock<mutex> lock(santa->GetMutex());
@@ -35,13 +40,15 @@ void Elf::Run()
 
         santa->GetWaitingElvesNumber()++;
 
-        cout << "Elf " << GetId() << ": Can't make toys. Needs help." << endl;
+        s = "Elf " + to_string(m_id) + ": Can't make toys. Needs help.";
+        SantaClaus::GetInstance()->GetOutputStream() << s << endl;
 
         if (santa->GetWaitingElvesNumber() < 3 || santa->GetElvesRequestedHelp() == true)
         { 
             while (santa->GetAvailableElvesPositions() == 0)
             {
-                cout << "Elf " << GetId() << ": waits to go to santa." << endl;
+                s = "Elf " + to_string(m_id) + ": waits to go to santa.";
+                SantaClaus::GetInstance()->GetOutputStream() << s << endl;
                 CHECK_IF_ITS_TIME_TO_DIE
                 santa->GetWaitingElvesCV().wait(lock);
                 this_thread::yield();
@@ -58,7 +65,8 @@ void Elf::Run()
         }
 
         // aici un elf ii cere ajutor lui santa. dar nu ajunge la santa decat cand 3 ii vor cere ajutor
-        cout << "Elf " << GetId() << ": I request help from santa." << endl;
+        s = "Elf " + to_string(m_id) + ": I request help from santa.";
+        SantaClaus::GetInstance()->GetOutputStream() << s << endl;
         santa->GetWaitingElvesNumber()--;
         santa->GetAvailableElvesPositions()--;
 

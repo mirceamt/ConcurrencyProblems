@@ -30,9 +30,14 @@ SantaClaus* SantaClaus::GetInstance()
     return m_instance;
 }
 
-void SantaClaus::Init(int iterations)
+void SantaClaus::Init(int iterations, bool writeOnScreen)
 {
     m_iterations = iterations;
+    m_writeOnScreen = writeOnScreen;
+    if (!m_writeOnScreen)
+    {
+        m_outputFileStream = new ofstream("output.txt");
+    }
 }
 
 void SantaClaus::Run()
@@ -45,7 +50,7 @@ void SantaClaus::Run()
 
         if (m_reindeers.size() == 9)
         {
-            cout << "Santa Claus: Welcome reindeers!" << endl;
+            SantaClaus::GetInstance()->GetOutputStream() << "Santa Claus: Welcome reindeers!" << endl;
 
             queue<Reindeer*> aux = m_reindeers;
             while (!m_reindeers.empty())
@@ -53,10 +58,10 @@ void SantaClaus::Run()
                 Reindeer* r = m_reindeers.front();
                 m_reindeers.pop();
 
-                cout << "Santa Claus: Harness reindeer " << r->GetId() << endl;
+                SantaClaus::GetInstance()->GetOutputStream() << "Santa Claus: Harness reindeer " << r->GetId() << endl;
                 this_thread::sleep_for(chrono::milliseconds(GetRandomHarnessTime()));
             }
-            cout << "Santa Claus: Delivering gifts... " << endl;
+            SantaClaus::GetInstance()->GetOutputStream() << "Santa Claus: Delivering gifts... " << endl;
             this_thread::sleep_for(chrono::milliseconds(50));
 
             while (!aux.empty())
@@ -64,7 +69,7 @@ void SantaClaus::Run()
                 Reindeer* r = aux.front();
                 aux.pop();
 
-                cout << "Santa Claus: Unharness reindeer " << r->GetId() << endl;
+                SantaClaus::GetInstance()->GetOutputStream() << "Santa Claus: Unharness reindeer " << r->GetId() << endl;
                 this_thread::sleep_for(chrono::milliseconds(GetRandomUnharnessTime()));
             }
 
@@ -83,13 +88,13 @@ void SantaClaus::Run()
 
         if (m_elves.size() == 3)
         {
-            cout << "Santa Claus: Welcome elves!" << endl;
+            SantaClaus::GetInstance()->GetOutputStream() << "Santa Claus: Welcome elves!" << endl;
 
             while (!m_elves.empty())
             {
                 Elf* e = m_elves.front();
                 m_elves.pop();
-                cout << "Santa Claus: Consulting elf " << e->GetId() << endl;
+                SantaClaus::GetInstance()->GetOutputStream() << "Santa Claus: Consulting elf " << e->GetId() << endl;
                 this_thread::sleep_for(chrono::milliseconds(GetRandomConsultingTime()));
             }
 
@@ -103,6 +108,27 @@ void SantaClaus::Run()
                 return;
             }
         }
+    }
+}
+
+void SantaClaus::CleanUp()
+{
+    if (!m_writeOnScreen)
+    {
+        m_outputFileStream->close();
+        delete m_outputFileStream;
+    }
+}
+
+std::ostream & SantaClaus::GetOutputStream()
+{
+    if (m_writeOnScreen)
+    {
+        return cout;
+    }
+    else
+    {
+        return *m_outputFileStream;
     }
 }
 
@@ -178,7 +204,7 @@ int SantaClaus::GetRemainingIterations()
 
 unique_lock<mutex> SantaClaus::GoToSleep(unique_lock<mutex> lock)
 {
-    cout << "Santa Claus: Going to sleep." << endl;
+    SantaClaus::GetInstance()->GetOutputStream() << "Santa Claus: Going to sleep." << endl;
     m_santaWakeUp.wait(lock);
     return move(lock);
 }

@@ -13,7 +13,7 @@ int main()
     thread elfTreads[10];
 
     SantaClaus *santa = SantaClaus::GetInstance();
-    santa->Init(20);
+    santa->Init(20, false);
     Reindeer *reindeers = new Reindeer[9];
     Elf *elves = new Elf[10];
 
@@ -36,10 +36,13 @@ int main()
     {
         elfTreads[i].join();
     }
+
+    SantaClaus::GetInstance()->GetOutputStream() << "\n\ndone";
+    santa->CleanUp();
+
     delete santa;
     delete[] elves;
     delete[] reindeers;
 
-    cout << "\n\ndone";
     return 0;
 }

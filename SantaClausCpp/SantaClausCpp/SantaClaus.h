@@ -3,6 +3,7 @@
 #include <mutex>
 #include <condition_variable>
 #include <memory>
+#include <fstream>
 
 class Reindeer;
 class Elf;
@@ -11,8 +12,10 @@ class SantaClaus
 {
 public:
     static SantaClaus* GetInstance();
-    void Init(int iterations);
+    void Init(int iterations, bool writeOnScreen);
     void Run();
+    void CleanUp();
+    std::ostream& GetOutputStream();
     void AddReindeer(Reindeer* r);
     int GetReindeersQueueSize();
     void AddElf(Elf* e);
@@ -33,6 +36,8 @@ public:
 private:
     std::unique_lock<std::mutex> GoToSleep(std::unique_lock<std::mutex> lock);
 
+    std::ofstream* m_outputFileStream = nullptr;
+
     int GetRandomHarnessTime();
     int GetRandomUnharnessTime();
     int GetRandomConsultingTime();
@@ -43,6 +48,7 @@ private:
     int m_servedElvesNumber;
 
 
+    bool m_writeOnScreen;
     std::mutex m_mutex;
     std::condition_variable m_santaWakeUp;
     std::condition_variable m_waitingReindeers;

@@ -24,13 +24,13 @@ void Reindeer::Run()
 {
     while (true)
     {
-        cout << "Reindeer " << GetId() << ": Going to holiday." << endl;
+        SantaClaus::GetInstance()->GetOutputStream() << "Reindeer " << GetId() << ": Going to holiday." << endl;
         this_thread::sleep_for(chrono::milliseconds(GetRandomHolidayTime()));
 
         SantaClaus* santa = SantaClaus::GetInstance();
         unique_lock<mutex> lock(santa->GetMutex());
 
-        cout << "Reindeer " << GetId() << ": Back from holiday." << endl;
+        SantaClaus::GetInstance()->GetOutputStream() << "Reindeer " << GetId() << ": Back from holiday." << endl;
 
         santa->AddReindeer(this);
 
