@@ -1,8 +1,5 @@
 import java.util.Random;
 
-/**
- * Created by Ghita on 29-May-16.
- */
 public class AirTrafficControl
 {
     public static void main(String[] args) throws InterruptedException

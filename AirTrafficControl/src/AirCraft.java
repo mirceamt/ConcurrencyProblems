@@ -2,9 +2,6 @@ import java.util.Date;
 
 import static java.lang.Thread.*;
 
-/**
- * Created by Ghita on 29-May-16.
- */
 public class AirCraft extends Thread
 {
     private int mId;

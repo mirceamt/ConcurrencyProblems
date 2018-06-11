@@ -3,9 +3,6 @@ import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
-/**
- * Created by Ghita on 29-May-16.
- */
 public class AirPort extends Thread
 {
     private static final AirPort airportInstance = new AirPort();
